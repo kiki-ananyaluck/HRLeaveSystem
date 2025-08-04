@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xEsixfC+AYw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Application\\HRLeaveSystem.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

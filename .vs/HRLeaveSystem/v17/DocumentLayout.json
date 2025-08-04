@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CA9E4D-6799-4CBC-898F-B2A01AE03064}|HRLeaveSystem.API\\HRLeaveSystem.API.csproj|c:\\users\\user\\documents\\keke\\.net project\\hrleavesystem\\hrleavesystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0CA9E4D-6799-4CBC-898F-B2A01AE03064}|HRLeaveSystem.API\\HRLeaveSystem.API.csproj|solutionrelative:hrleavesystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CA9E4D-6799-4CBC-898F-B2A01AE03064}|HRLeaveSystem.API\\HRLeaveSystem.API.csproj|c:\\users\\user\\documents\\keke\\.net project\\hrleavesystem\\hrleavesystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CA9E4D-6799-4CBC-898F-B2A01AE03064}|HRLeaveSystem.API\\HRLeaveSystem.API.csproj|solutionrelative:hrleavesystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CA9E4D-6799-4CBC-898F-B2A01AE03064}|HRLeaveSystem.API\\HRLeaveSystem.API.csproj|c:\\users\\user\\documents\\keke\\.net project\\hrleavesystem\\hrleavesystem.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CA9E4D-6799-4CBC-898F-B2A01AE03064}|HRLeaveSystem.API\\HRLeaveSystem.API.csproj|solutionrelative:hrleavesystem.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CA9E4D-6799-4CBC-898F-B2A01AE03064}|HRLeaveSystem.API\\HRLeaveSystem.API.csproj|c:\\users\\user\\documents\\keke\\.net project\\hrleavesystem\\hrleavesystem.api\\controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CA9E4D-6799-4CBC-898F-B2A01AE03064}|HRLeaveSystem.API\\HRLeaveSystem.API.csproj|solutionrelative:hrleavesystem.api\\controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD99E92F-0A1C-43E4-9B74-1952FB5FC458}|HRLeaveSystem.Infrastructure\\HRLeaveSystem.Infrastructure.csproj|c:\\users\\user\\documents\\keke\\.net project\\hrleavesystem\\hrleavesystem.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD99E92F-0A1C-43E4-9B74-1952FB5FC458}|HRLeaveSystem.Infrastructure\\HRLeaveSystem.Infrastructure.csproj|solutionrelative:hrleavesystem.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6D7B3D-21CC-4DF5-B193-9DD3DE50963B}|HRLeaveSystem.Application\\HRLeaveSystem.Application.csproj|c:\\users\\user\\documents\\keke\\.net project\\hrleavesystem\\hrleavesystem.application\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6D7B3D-21CC-4DF5-B193-9DD3DE50963B}|HRLeaveSystem.Application\\HRLeaveSystem.Application.csproj|solutionrelative:hrleavesystem.application\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6D7B3D-21CC-4DF5-B193-9DD3DE50963B}|HRLeaveSystem.Application\\HRLeaveSystem.Application.csproj|c:\\users\\user\\documents\\keke\\.net project\\hrleavesystem\\hrleavesystem.application\\repositories\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6D7B3D-21CC-4DF5-B193-9DD3DE50963B}|HRLeaveSystem.Application\\HRLeaveSystem.Application.csproj|solutionrelative:hrleavesystem.application\\repositories\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6D7B3D-21CC-4DF5-B193-9DD3DE50963B}|HRLeaveSystem.Application\\HRLeaveSystem.Application.csproj|c:\\users\\user\\documents\\keke\\.net project\\hrleavesystem\\hrleavesystem.application\\interfaces\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6D7B3D-21CC-4DF5-B193-9DD3DE50963B}|HRLeaveSystem.Application\\HRLeaveSystem.Application.csproj|solutionrelative:hrleavesystem.application\\interfaces\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6D7B3D-21CC-4DF5-B193-9DD3DE50963B}|HRLeaveSystem.Application\\HRLeaveSystem.Application.csproj|c:\\users\\user\\documents\\keke\\.net project\\hrleavesystem\\hrleavesystem.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6D7B3D-21CC-4DF5-B193-9DD3DE50963B}|HRLeaveSystem.Application\\HRLeaveSystem.Application.csproj|solutionrelative:hrleavesystem.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6D7B3D-21CC-4DF5-B193-9DD3DE50963B}|HRLeaveSystem.Application\\HRLeaveSystem.Application.csproj|c:\\users\\user\\documents\\keke\\.net project\\hrleavesystem\\hrleavesystem.application\\validators\\createleaverequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6D7B3D-21CC-4DF5-B193-9DD3DE50963B}|HRLeaveSystem.Application\\HRLeaveSystem.Application.csproj|solutionrelative:hrleavesystem.application\\validators\\createleaverequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6D7B3D-21CC-4DF5-B193-9DD3DE50963B}|HRLeaveSystem.Application\\HRLeaveSystem.Application.csproj|c:\\users\\user\\documents\\keke\\.net project\\hrleavesystem\\hrleavesystem.application\\dtos\\createleaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6D7B3D-21CC-4DF5-B193-9DD3DE50963B}|HRLeaveSystem.Application\\HRLeaveSystem.Application.csproj|solutionrelative:hrleavesystem.application\\dtos\\createleaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HRLeaveSystem.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.API\\WeatherForecast.cs",
+              "RelativeToolTip": "HRLeaveSystem.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:47:38.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "HRLeaveSystem.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "HRLeaveSystem.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:46:37.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Application\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "HRLeaveSystem.Application\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Application\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "HRLeaveSystem.Application\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:46:09.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "HRLeaveSystem.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.API\\appsettings.json",
+              "RelativeToolTip": "HRLeaveSystem.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T11:38:34.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Application\\Repositories\\ILeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "HRLeaveSystem.Application\\Repositories\\ILeaveRequestRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Application\\Repositories\\ILeaveRequestRepository.cs",
+              "RelativeToolTip": "HRLeaveSystem.Application\\Repositories\\ILeaveRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:45:48.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILeaveRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Application\\Interfaces\\ILeaveRequestService.cs",
+              "RelativeDocumentMoniker": "HRLeaveSystem.Application\\Interfaces\\ILeaveRequestService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Application\\Interfaces\\ILeaveRequestService.cs",
+              "RelativeToolTip": "HRLeaveSystem.Application\\Interfaces\\ILeaveRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:42:32.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "HRLeaveSystem.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.API\\Program.cs",
+              "RelativeToolTip": "HRLeaveSystem.API\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:39:01.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.API\\Controllers\\LeaveRequestsController.cs",
+              "RelativeDocumentMoniker": "HRLeaveSystem.API\\Controllers\\LeaveRequestsController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.API\\Controllers\\LeaveRequestsController.cs",
+              "RelativeToolTip": "HRLeaveSystem.API\\Controllers\\LeaveRequestsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA4wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:39:36.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "HRLeaveSystem.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "HRLeaveSystem.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:41:59.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateLeaveRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Application\\Validators\\CreateLeaveRequestValidator.cs",
+              "RelativeDocumentMoniker": "HRLeaveSystem.Application\\Validators\\CreateLeaveRequestValidator.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Application\\Validators\\CreateLeaveRequestValidator.cs",
+              "RelativeToolTip": "HRLeaveSystem.Application\\Validators\\CreateLeaveRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:41:23.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateLeaveRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Application\\DTOs\\CreateLeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "HRLeaveSystem.Application\\DTOs\\CreateLeaveRequestDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\keke\\.NET project\\HRLeaveSystem\\HRLeaveSystem.Application\\DTOs\\CreateLeaveRequestDto.cs",
+              "RelativeToolTip": "HRLeaveSystem.Application\\DTOs\\CreateLeaveRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:40:51.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

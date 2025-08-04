@@ -1,0 +1,11 @@
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Domain\obj\Debug\net8.0\HRLeaveSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Domain\obj\Debug\net8.0\HRLeaveSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Domain\obj\Debug\net8.0\HRLeaveSystem.Domain.AssemblyInfo.cs
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Domain\obj\Debug\net8.0\HRLeaveSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Domain\bin\Debug\net8.0\HRLeaveSystem.Domain.deps.json
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Domain\bin\Debug\net8.0\HRLeaveSystem.Domain.dll
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Domain\bin\Debug\net8.0\HRLeaveSystem.Domain.pdb
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Domain\obj\Debug\net8.0\HRLeaveSystem.Domain.dll
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Domain\obj\Debug\net8.0\refint\HRLeaveSystem.Domain.dll
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Domain\obj\Debug\net8.0\HRLeaveSystem.Domain.pdb
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Domain\obj\Debug\net8.0\ref\HRLeaveSystem.Domain.dll

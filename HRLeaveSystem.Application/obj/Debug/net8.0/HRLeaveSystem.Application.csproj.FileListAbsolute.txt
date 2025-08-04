@@ -1,0 +1,15 @@
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\obj\Debug\net8.0\HRLeaveSystem.Application.csproj.AssemblyReference.cache
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\obj\Debug\net8.0\HRLeaveSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\obj\Debug\net8.0\HRLeaveSystem.Application.AssemblyInfoInputs.cache
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\obj\Debug\net8.0\HRLeaveSystem.Application.AssemblyInfo.cs
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\obj\Debug\net8.0\HRLeaveSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\bin\Debug\net8.0\HRLeaveSystem.Application.deps.json
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\bin\Debug\net8.0\HRLeaveSystem.Application.dll
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\bin\Debug\net8.0\HRLeaveSystem.Application.pdb
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\bin\Debug\net8.0\HRLeaveSystem.Domain.dll
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\bin\Debug\net8.0\HRLeaveSystem.Domain.pdb
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\obj\Debug\net8.0\HRLeaveS.13CA9B02.Up2Date
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\obj\Debug\net8.0\HRLeaveSystem.Application.dll
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\obj\Debug\net8.0\refint\HRLeaveSystem.Application.dll
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\obj\Debug\net8.0\HRLeaveSystem.Application.pdb
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Application\obj\Debug\net8.0\ref\HRLeaveSystem.Application.dll

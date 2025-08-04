@@ -1,0 +1,17 @@
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\obj\Debug\net8.0\HRLeaveSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\obj\Debug\net8.0\HRLeaveSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\obj\Debug\net8.0\HRLeaveSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\obj\Debug\net8.0\HRLeaveSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\obj\Debug\net8.0\HRLeaveSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\bin\Debug\net8.0\HRLeaveSystem.Infrastructure.deps.json
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\bin\Debug\net8.0\HRLeaveSystem.Infrastructure.runtimeconfig.json
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\bin\Debug\net8.0\HRLeaveSystem.Infrastructure.dll
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\bin\Debug\net8.0\HRLeaveSystem.Infrastructure.pdb
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\bin\Debug\net8.0\HRLeaveSystem.Domain.dll
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\bin\Debug\net8.0\HRLeaveSystem.Domain.pdb
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\obj\Debug\net8.0\HRLeaveS.2B798DF4.Up2Date
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\obj\Debug\net8.0\HRLeaveSystem.Infrastructure.dll
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\obj\Debug\net8.0\refint\HRLeaveSystem.Infrastructure.dll
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\obj\Debug\net8.0\HRLeaveSystem.Infrastructure.pdb
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\obj\Debug\net8.0\HRLeaveSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\user\Documents\keke\.NET project\HRLeaveSystem\HRLeaveSystem.Infrastructure\obj\Debug\net8.0\ref\HRLeaveSystem.Infrastructure.dll
